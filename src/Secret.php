@@ -31,7 +31,7 @@ class Secret
      */
     public function getUri()
     {
-        return "otpauth://totp/".urlencode($this->getLabel())."?secret=".$this->getSecretKey()."&issuer=".urlencode($this->getIssuer());
+        return "otpauth://totp/".urlencode($this->getAccountName())."?secret=".$this->getSecretKey()."&issuer=".urlencode($this->getIssuer());
     }
 
     /**
