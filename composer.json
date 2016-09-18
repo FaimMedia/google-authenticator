@@ -1,11 +1,15 @@
 {
-    "name": "dolondro/google-authenticator",
+    "name": "FaimMedia/google-authenticator",
     "description": "Code to authenticate against the Google Authenticator app",
     "license": "MIT",
     "authors": [
         {
             "name": "Doug",
             "email": "dougnelson@silktide.com"
+        },
+        {
+            "name": "Tim Peters",
+            "email" : "tim@faimmedia.nl"
         }
     ],
     "require": {
