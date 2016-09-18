@@ -1,8 +1,6 @@
 <?php
 
-
 namespace Dolondro\GoogleAuthenticator;
-
 
 use Base32\Base32;
 use Psr\Cache\CacheItemPoolInterface;
