@@ -1,5 +1,5 @@
 {
-    "name": "FaimMedia/google-authenticator",
+    "name": "faimmedia/google-authenticator",
     "description": "Code to authenticate against the Google Authenticator app",
     "license": "MIT",
     "authors": [
